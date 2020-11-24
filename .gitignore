@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folders
+/project-dog-classification/lfw/**
+/project-dog-classification/dogImages/**
